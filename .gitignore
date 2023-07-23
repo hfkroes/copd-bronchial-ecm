@@ -1,0 +1,9 @@
+.nextflow
+work/
+*.Rhistory
+*.fastq
+*.ht2
+*.sam
+*.bam
+*.log
+*.gz
